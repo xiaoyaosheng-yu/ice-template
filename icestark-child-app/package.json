@@ -21,6 +21,7 @@
   "dependencies": {
     "@ice/stark-app": "^1.0.1",
     "element-ui": "^2.13.2",
+    "react": "^17.0.2",
     "vue": "^2.5.13",
     "vue-router": "^3.0.1"
   },
